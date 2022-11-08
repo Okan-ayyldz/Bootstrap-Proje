@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ana-resim{
+	background:url(ust%20foto.jpg);
+	background-repeat:no-repeat;
+	width:1800px;
+	height:600px;
+	margin:auto;
+		}
+		
+.navbar {
+	border-radius:40px;
+}
+.navbar-brand{
+	margin-left:30px;
+}
+.navbar-nav{
+	margin-left:450px;
+}
+.nav-item{
+	margin-left:30px;
+}
+.nav-item a:hover{
+	font-size:18px;
+}
+
+.metin{
+	
+	margin-top:50px; 
+}
+.res{
+	margin-top:150px;
+	margin-left:40px;
+}
+.btn-group{
+	margin-top:300px;
+}
+.res2{
+	display:block;
+	margin:auto;
+	margin-top:100px;
+	
+}
+#çizgi{
+	background-color:#FF3;
+	width:1900px;
+
+}
+.alt{
+	font-size:20px;
+	color:#333;
+	text-align:center;
+	margin-top:40px;
+	text-decoration:none;
+}

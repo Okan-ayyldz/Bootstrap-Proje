@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ana-resim{
+	background:url(ana%20sayfa.jpg);
+	background-repeat:no-repeat;
+	width:1800px;
+	height:900px;
+	margin:auto;
+		}
+		
+.navbar {
+	border-radius:40px;
+}
+.navbar-brand{
+	margin-left:30px;
+}
+.navbar-nav{
+	margin-left:450px;
+}
+.nav-item{
+	margin-left:30px;
+}
+.nav-item a:hover{
+	font-size:18px;
+}
+
+.res{
+	margin-top:350px;
+	margin-left:40px;
+}
+
+.res2{
+	display:block;
+	margin:auto;
+	
+}
+#çizgi{
+	background-color:#FF3;
+	width:1900px;
+
+}
+.alt{
+	font-size:20px;
+	color:#333;
+	text-align:center;
+	margin-top:40px;
+	text-decoration:none;
+}
